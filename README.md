@@ -23,7 +23,11 @@ This space is less about showing that I’m a software engineer and more about s
 
 ## Current projects
 
-- `design-tech-lab`: Notes and experiments around digital design systems, workflow, and front-end learning.
+- `design-tech-lab`: A documentation-based design lab for exploring digital design systems, accessibility-minded workflows, and front-end learning from a designer’s perspective.
+  - Digital campaign system audit
+  - Figma component library planning
+  - Design systems glossary
+  - Case study and audit templates
 
 ## Connect with me
 
