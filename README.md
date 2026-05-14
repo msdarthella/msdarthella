@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Darcy Hinrichs
 
-<!--
-**msdarthella/msdarthella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Visual & Brand Designer specializing in digital experiences across web, email, mobile, and e-commerce.
 
-Here are some ideas to get you started:
+I create design systems, reusable templates, and production workflows that help marketing and creative teams move faster while keeping brand quality, accessibility, and consistency intact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on
+
+- Digital visual design
+- Brand systems
+- Web, email, and mobile experiences
+- E-commerce design
+- Figma component libraries
+- Reusable campaign templates
+- Accessibility-minded design
+- Creative production workflows
+
+## What I’m exploring here
+
+I’m using GitHub to document design systems thinking, workflow experiments, front-end learning, and the connection between design and implementation.
+
+This space is less about showing that I’m a software engineer and more about showing how I organize digital work, think through systems, and collaborate across design and technology.
+
+## Current projects
+
+- `design-tech-lab`: Notes and experiments around digital design systems, workflow, and front-end learning.
+
+## Connect with me
+
+- LinkedIn: [https://www.linkedin.com/in/darcyhinrichs]
+- Portfolio: [https://www.darcyhinrichs.design]
