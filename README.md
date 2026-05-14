@@ -27,9 +27,10 @@ This space is less about showing that I’m a software engineer and more about s
   - Digital campaign system audit
   - Figma component library planning
   - Email campaign template systems
+  - E-commerce landing page audit
   - Design systems glossary
   - Case study and audit templates
-
+  
 ## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/darcyhinrichs
