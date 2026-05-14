@@ -27,5 +27,5 @@ This space is less about showing that I’m a software engineer and more about s
 
 ## Connect with me
 
-- LinkedIn: [https://www.linkedin.com/in/darcyhinrichs]
-- Portfolio: [https://www.darcyhinrichs.design]
+- LinkedIn: https://www.linkedin.com/in/darcyhinrichs
+- Portfolio: https://www.darcyhinrichs.design
